@@ -1,8 +1,9 @@
 # 📈 Discord Stock Bot
 
-A simple Discord bot that fetches and displays stock information in Discord channels.
+A simple and practical Discord bot that provides real-time stock market data directly inside Discord servers.
+Designed to help users quickly check stock prices and market information without leaving Discord.
 
-This bot allows users to get real-time (or near real-time) stock prices and basic stock data using commands in Discord.
+🔗 Live Demo: https://discord.gg/Tf2P8TWP
 
 ---
 
@@ -17,7 +18,7 @@ This bot allows users to get real-time (or near real-time) stock prices and basi
 
 ## 🧰 Tech Stack
 
-* 🐍 Python
-* 📦 `discord.py` (or similar library)
-* 📡 Stock data API (Alpha Vantage, Yahoo Finance, Finnhub, etc.)
-* 📜 `requirements.txt` for dependency management
+* Python
+* Discord.py
+* Yahoo Finance / Alpha Vantage API
+* Railway (deployment)
