@@ -18,7 +18,7 @@ Designed to help users **quickly check stock prices and market information** wit
 
 ## 🛠 Tech Stack
 
-* Python
-* Discord.py
-* Yahoo Finance / Alpha Vantage API
-* Railway (deployment)
+* **Python**
+* **Discord.py**
+* **Yahoo Finance / Alpha Vantage API**
+* **Railway** (deployment)
