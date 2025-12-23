@@ -1,7 +1,7 @@
 📈 Discord Stock Bot
 
-A simple and practical Discord bot that provides real-time stock market data directly inside Discord servers.
-Designed to help users quickly check stock prices and market information without leaving Discord.
+A simple and practical Discord bot that provides **real-time** stock market data directly inside Discord servers.
+Designed to help users **quickly check stock prices and market information** without leaving Discord.
 
 🔗 Live Demo: https://discord.gg/Tf2P8TWP
 
